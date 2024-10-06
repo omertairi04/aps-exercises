@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysTuts/arraysTuts.iml" filepath="$PROJECT_DIR$/arraysTuts/arraysTuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" filepath="$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-sum/two-sum.iml" filepath="$PROJECT_DIR$/two-sum/two-sum.iml" />
+    </modules>
+  </component>
+</project>
