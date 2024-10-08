@@ -3,10 +3,11 @@ public class Main {
         int k=0;
         int newArray[]=new int[nums.length];
 
-        for (int i=0;i<nums.length;i++){
-            
-        }
+//        for (int i=0;i<nums.length;i++){
+//
+//        }
 
+        return 0;
     }
 
     /*
