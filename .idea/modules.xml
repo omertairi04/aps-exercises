@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/ReverseWord/ReverseWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanNums/RomanNums.iml" filepath="$PROJECT_DIR$/RomanNums/RomanNums.iml" />
       <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysTuts/arraysTuts.iml" filepath="$PROJECT_DIR$/arraysTuts/arraysTuts.iml" />
