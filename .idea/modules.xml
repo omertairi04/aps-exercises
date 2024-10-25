@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" filepath="$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" filepath="$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" filepath="$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysTuts/arraysTuts.iml" filepath="$PROJECT_DIR$/arraysTuts/arraysTuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" filepath="$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" />
       <module fileurl="file://$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" filepath="$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" filepath="$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleLinkedList/singleLinkedList.iml" filepath="$PROJECT_DIR$/singleLinkedList/singleLinkedList.iml" />
