@@ -5,6 +5,16 @@
 public class LinkedList<T> {
     Node<T> head;
 
+    @Override
+    public String toString() {
+        StringBuilder str = new StringBuilder();
+        while (head != null) {
+            str.append(head.data);
+            head = head.next;
+        }
+        return str.toString();
+    }
+
     public LinkedList() {
         this.head = null;
     }
