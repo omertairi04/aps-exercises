@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdultsChildren/AdultsChildren.iml" filepath="$PROJECT_DIR$/AdultsChildren/AdultsChildren.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" filepath="$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" filepath="$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" filepath="$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" filepath="$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/ReverseWord/ReverseWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanNums/RomanNums.iml" filepath="$PROJECT_DIR$/RomanNums/RomanNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" filepath="$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" filepath="$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" filepath="$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vezhba2/Vezhba2.iml" filepath="$PROJECT_DIR$/Vezhba2/Vezhba2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" filepath="$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />

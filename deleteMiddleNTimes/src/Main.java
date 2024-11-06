@@ -28,7 +28,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int [] arr = new int[n];
+        int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
@@ -39,10 +39,30 @@ public class Main {
             list.insertLast(arr[i]);
         }
 
-        if (list.size() % 2 == 0) {
+        while (amountToDelete > 0) {
+            int middlePos = list.size() / 2;
+            SLLNode<Integer> current = list.getFirst();
+            int counter = 1;
+            while (counter != middlePos) {
+                counter++;
+                current = current.succ;
+            }
 
+            if (list.size() % 2 == 0) {
+                // even
+                SLLNode<Integer> secondMiddle = current.succ;
+                if (current.element.equals(secondMiddle.element) || current.element < secondMiddle.element) {
+                    list.delete(current);
+                } else {
+                    list.delete(secondMiddle);
+                }
+            } else {
+                // odd
+                list.delete(current);
+            }
+            amountToDelete--;
         }
 
-        SLLNode<Integer> current = list.getFirst();
+        System.out.println(list);
     }
 }
