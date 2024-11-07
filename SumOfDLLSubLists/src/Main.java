@@ -6,7 +6,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int m = sc.nextInt();
-        int[] subSums = new int[n];
+        DLL<Integer> list = new DLL<>();
         for (int i = 0; i < n; i++) {
             int sum = 0;
             DLL<Integer> dll = new DLL<>();
@@ -15,12 +15,16 @@ public class Main {
                 dll.insertLast(value);
                 sum += value;
             }
-            subSums[i] = sum;
+            list.insertLast(sum);
         }
 
         int sums = 1;
-        for (int i = 0; i < subSums.length; i++) {
-            sums *= subSums[i];
+        int iterator = 0;
+        DLLNode<Integer> head = list.getFirst();
+        while (iterator < list.getSize()) {
+            sums *= head.element;
+            head = head.succ;
+            iterator++;
         }
         System.out.println("Sum = " + sums);
     }

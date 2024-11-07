@@ -79,6 +79,11 @@ public class Main {
         }
     }
 
+    private static int binarySearch(int[] arr, int target) {
+
+        return -1;
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
