@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdultsChildren/AdultsChildren.iml" filepath="$PROJECT_DIR$/AdultsChildren/AdultsChildren.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayMeanLength/ArrayMeanLength.iml" filepath="$PROJECT_DIR$/ArrayMeanLength/ArrayMeanLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestTimeToBuySellStocks/BestTimeToBuySellStocks.iml" filepath="$PROJECT_DIR$/BestTimeToBuySellStocks/BestTimeToBuySellStocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" filepath="$PROJECT_DIR$/ConveyorBelt/ConveyorBelt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountingBits/CountingBits.iml" filepath="$PROJECT_DIR$/CountingBits/CountingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" filepath="$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" filepath="$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Meetings/Meetings.iml" filepath="$PROJECT_DIR$/Meetings/Meetings.iml" />
@@ -23,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" filepath="$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysTuts/arraysTuts.iml" filepath="$PROJECT_DIR$/arraysTuts/arraysTuts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/climbingStairs/climbingStairs.iml" filepath="$PROJECT_DIR$/climbingStairs/climbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/deleteMiddleNTimes/deleteMiddleNTimes.iml" filepath="$PROJECT_DIR$/deleteMiddleNTimes/deleteMiddleNTimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" filepath="$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" />
       <module fileurl="file://$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" filepath="$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" />
