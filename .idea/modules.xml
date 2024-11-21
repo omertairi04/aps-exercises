@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/CountingBits/CountingBits.iml" filepath="$PROJECT_DIR$/CountingBits/CountingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" filepath="$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" filepath="$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" filepath="$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaOdListi/ListaOdListi.iml" filepath="$PROJECT_DIR$/ListaOdListi/ListaOdListi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MeetingRoom/MeetingRoom.iml" filepath="$PROJECT_DIR$/MeetingRoom/MeetingRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Meetings/Meetings.iml" filepath="$PROJECT_DIR$/Meetings/Meetings.iml" />
       <module fileurl="file://$PROJECT_DIR$/MysticalCardGame/MysticalCardGame.iml" filepath="$PROJECT_DIR$/MysticalCardGame/MysticalCardGame.iml" />
@@ -17,8 +19,11 @@
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueDSA/QueueDSA.iml" filepath="$PROJECT_DIR$/QueueDSA/QueueDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" filepath="$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" filepath="$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/ReverseWord/ReverseWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanNums/RomanNums.iml" filepath="$PROJECT_DIR$/RomanNums/RomanNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotateSLLinGroups/RotateSLLinGroups.iml" filepath="$PROJECT_DIR$/RotateSLLinGroups/RotateSLLinGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLLDuplicateEven/SLLDuplicateEven.iml" filepath="$PROJECT_DIR$/SLLDuplicateEven/SLLDuplicateEven.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" filepath="$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortLL/SortLL.iml" filepath="$PROJECT_DIR$/SortLL/SortLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" filepath="$PROJECT_DIR$/SortingAlgos/SortingAlgos.iml" />
@@ -26,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/StackDSA/StackDSA.iml" filepath="$PROJECT_DIR$/StackDSA/StackDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreetLight/StreetLight.iml" filepath="$PROJECT_DIR$/StreetLight/StreetLight.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" filepath="$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchNodesMN/SwitchNodesMN.iml" filepath="$PROJECT_DIR$/SwitchNodesMN/SwitchNodesMN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vezhba2/Vezhba2.iml" filepath="$PROJECT_DIR$/Vezhba2/Vezhba2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" filepath="$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZigZagSLL/ZigZagSLL.iml" filepath="$PROJECT_DIR$/ZigZagSLL/ZigZagSLL.iml" />
