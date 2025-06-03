@@ -1,0 +1,48 @@
+A text is given, organized into multiple sections. Your task is to determine whether the text is valid according to the given organizational rules.
+
+    Each section starts with \begin{section}, \begin{subsection} or \begin{subsubsection}
+    Each section ends with \end{section}, \end{subsection} or \end{subsubsection}. The level of the opening tag has to match the level of the closing tag. ((\begin{subsection} must always be closed with (\end{subsection} , and so on.)
+    Sections can be nested, but a nested section must have a lower level than the one it is nested inside. For example, a section cannot be nested inside a subsection, but a subsection can be nested inside a section. The section levels have to be consecutive (A subsubsection can't be nested directly inside a section and a subsection can't appear outside of a section).
+
+Apart from sections, the text can contain regular content, which can only appear in a block that starts with \begin{text} and ends with \end{text}. A text block can't contain any level of section nested inside. A text block can appear both outside, and nested within any level of section.
+
+Input: The first line contains an integer N representing the number of lines in the text. The next N lines each contain a single line of text.
+
+Output: Print true if the text is valid according to the rules, otherwise print false.
+Example:
+
+Input:
+10
+\begin{section}
+\begin{subsection}
+\begin{text}
+Subsection content
+\end{text}
+\end{subsection}
+\begin{text}
+Some more text
+\end{text}
+\end{section}
+
+
+Output: true
+
+For example:
+
+Input
+
+10
+\begin{section}
+\begin{subsection}
+\begin{text}
+Subsection content
+\end{text}
+\end{subsection}
+\begin{text}
+Some more text
+\end{text}
+\end{section}
+
+
+Result
+true
