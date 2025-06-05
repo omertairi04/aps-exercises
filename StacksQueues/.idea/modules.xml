@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/StackEx2/StackEx2.iml" filepath="$PROJECT_DIR$/StackEx2/StackEx2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StacksQueues.iml" filepath="$PROJECT_DIR$/.idea/StacksQueues.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParanthesis/ValidParanthesis.iml" filepath="$PROJECT_DIR$/ValidParanthesis/ValidParanthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateLateXCode/ValidateLateXCode.iml" filepath="$PROJECT_DIR$/ValidateLateXCode/ValidateLateXCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/sortStacks/sortStacks.iml" filepath="$PROJECT_DIR$/sortStacks/sortStacks.iml" />
     </modules>
   </component>
