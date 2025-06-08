@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackspaceStringCompareLeet/BackspaceStringCompareLeet.iml" filepath="$PROJECT_DIR$/BackspaceStringCompareLeet/BackspaceStringCompareLeet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseballGameLeetCode/BaseballGameLeetCode.iml" filepath="$PROJECT_DIR$/BaseballGameLeetCode/BaseballGameLeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeginFunc/BeginFunc.iml" filepath="$PROJECT_DIR$/BeginFunc/BeginFunc.iml" />
       <module fileurl="file://$PROJECT_DIR$/CorrectHtmlCode/CorrectHtmlCode.iml" filepath="$PROJECT_DIR$/CorrectHtmlCode/CorrectHtmlCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarderHtmlCode/HarderHtmlCode.iml" filepath="$PROJECT_DIR$/HarderHtmlCode/HarderHtmlCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/MeetingsLab/MeetingsLab.iml" filepath="$PROJECT_DIR$/MeetingsLab/MeetingsLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuasiStack/QuasiStack.iml" filepath="$PROJECT_DIR$/QuasiStack/QuasiStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimplifyPath/SimplifyPath.iml" filepath="$PROJECT_DIR$/SimplifyPath/SimplifyPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack1Solved/Stack1Solved.iml" filepath="$PROJECT_DIR$/Stack1Solved/Stack1Solved.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackEx1/StackEx1.iml" filepath="$PROJECT_DIR$/StackEx1/StackEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackEx2/StackEx2.iml" filepath="$PROJECT_DIR$/StackEx2/StackEx2.iml" />
