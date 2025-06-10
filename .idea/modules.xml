@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueDSA/QueueDSA.iml" filepath="$PROJECT_DIR$/QueueDSA/QueueDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" filepath="$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" filepath="$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/ReverseWord/ReverseWord.iml" />

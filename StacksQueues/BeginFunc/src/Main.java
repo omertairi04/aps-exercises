@@ -13,6 +13,7 @@ public class Main {
 
          */
 
+
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         sc.nextLine();
