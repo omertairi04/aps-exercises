@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountWords/CountWords.iml" filepath="$PROJECT_DIR$/CountWords/CountWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/Ex2/Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4/Ex4.iml" filepath="$PROJECT_DIR$/Ex4/Ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5/Ex5.iml" filepath="$PROJECT_DIR$/Ex5/Ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTables.iml" filepath="$PROJECT_DIR$/HashTables.iml" />
+    </modules>
+  </component>
+</project>

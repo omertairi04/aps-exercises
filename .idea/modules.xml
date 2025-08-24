@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" filepath="$PROJECT_DIR$/DoubleLinkedLists/DoubleLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" filepath="$PROJECT_DIR$/EvenElementSLL/EvenElementSLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" filepath="$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionCalls/FunctionCalls.iml" filepath="$PROJECT_DIR$/FunctionCalls/FunctionCalls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRankSolved/HackerRankSolved.iml" filepath="$PROJECT_DIR$/HackerRankSolved/HackerRankSolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTables/HashTables.iml" filepath="$PROJECT_DIR$/HashTables/HashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ispit-Juni-T2/Ispit-Juni-T2.iml" filepath="$PROJECT_DIR$/Ispit-Juni-T2/Ispit-Juni-T2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListaOdListi/ListaOdListi.iml" filepath="$PROJECT_DIR$/ListaOdListi/ListaOdListi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MeetingRoom/MeetingRoom.iml" filepath="$PROJECT_DIR$/MeetingRoom/MeetingRoom.iml" />
@@ -19,11 +23,14 @@
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueDSA/QueueDSA.iml" filepath="$PROJECT_DIR$/QueueDSA/QueueDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" filepath="$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" filepath="$PROJECT_DIR$/ReverseDLL/ReverseDLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/ReverseWord/ReverseWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanNums/RomanNums.iml" filepath="$PROJECT_DIR$/RomanNums/RomanNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotateRightKDLL/RotateRightKDLL.iml" filepath="$PROJECT_DIR$/RotateRightKDLL/RotateRightKDLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/RotateSLLinGroups/RotateSLLinGroups.iml" filepath="$PROJECT_DIR$/RotateSLLinGroups/RotateSLLinGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLLCloud/SLLCloud.iml" filepath="$PROJECT_DIR$/SLLCloud/SLLCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/SLLDuplicateEven/SLLDuplicateEven.iml" filepath="$PROJECT_DIR$/SLLDuplicateEven/SLLDuplicateEven.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" filepath="$PROJECT_DIR$/ShuffleDLLNTimes/ShuffleDLLNTimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortLL/SortLL.iml" filepath="$PROJECT_DIR$/SortLL/SortLL.iml" />
@@ -34,12 +41,15 @@
       <module fileurl="file://$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" filepath="$PROJECT_DIR$/SumOfDLLSubLists/SumOfDLLSubLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchNodesMN/SwitchNodesMN.iml" filepath="$PROJECT_DIR$/SwitchNodesMN/SwitchNodesMN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vezhba2/Vezhba2.iml" filepath="$PROJECT_DIR$/Vezhba2/Vezhba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkerProjectHash/WorkerProjectHash.iml" filepath="$PROJECT_DIR$/WorkerProjectHash/WorkerProjectHash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" filepath="$PROJECT_DIR$/Zadaca1Home/Zadaca1Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZigZagSLL/ZigZagSLL.iml" filepath="$PROJECT_DIR$/ZigZagSLL/ZigZagSLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/aps-only.iml" filepath="$PROJECT_DIR$/aps-only.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysTuts/arraysTuts.iml" filepath="$PROJECT_DIR$/arraysTuts/arraysTuts.iml" />
       <module fileurl="file://$PROJECT_DIR$/deleteMiddleNTimes/deleteMiddleNTimes.iml" filepath="$PROJECT_DIR$/deleteMiddleNTimes/deleteMiddleNTimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibbNew/fibbNew.iml" filepath="$PROJECT_DIR$/fibbNew/fibbNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leftKTimesDLL/leftKTimesDLL.iml" filepath="$PROJECT_DIR$/leftKTimesDLL/leftKTimesDLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longestCommonPrefix/longestCommonPrefix.iml" filepath="$PROJECT_DIR$/longestCommonPrefix/longestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" filepath="$PROJECT_DIR$/maxContainerAmount/maxContainerAmount.iml" />
       <module fileurl="file://$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" filepath="$PROJECT_DIR$/push0sToBeggining/push0sToBeggining.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" filepath="$PROJECT_DIR$/remove-dup-from-sort-arr/remove-dup-from-sort-arr.iml" />

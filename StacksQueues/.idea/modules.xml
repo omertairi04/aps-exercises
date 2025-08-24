@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Headers/Headers.iml" filepath="$PROJECT_DIR$/Headers/Headers.iml" />
       <module fileurl="file://$PROJECT_DIR$/MeetingsLab/MeetingsLab.iml" filepath="$PROJECT_DIR$/MeetingsLab/MeetingsLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuasiStack/QuasiStack.iml" filepath="$PROJECT_DIR$/QuasiStack/QuasiStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShuffleCards/ShuffleCards.iml" filepath="$PROJECT_DIR$/ShuffleCards/ShuffleCards.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimplifyPath/SimplifyPath.iml" filepath="$PROJECT_DIR$/SimplifyPath/SimplifyPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack1Solved/Stack1Solved.iml" filepath="$PROJECT_DIR$/Stack1Solved/Stack1Solved.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackEx1/StackEx1.iml" filepath="$PROJECT_DIR$/StackEx1/StackEx1.iml" />
