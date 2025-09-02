@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" filepath="$PROJECT_DIR$/ExpressionEvaluator/ExpressionEvaluator.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionCalls/FunctionCalls.iml" filepath="$PROJECT_DIR$/FunctionCalls/FunctionCalls.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRankSolved/HackerRankSolved.iml" filepath="$PROJECT_DIR$/HackerRankSolved/HackerRankSolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTableSubStr/HashTableSubStr.iml" filepath="$PROJECT_DIR$/HashTableSubStr/HashTableSubStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTables/HashTables.iml" filepath="$PROJECT_DIR$/HashTables/HashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ispit-Juni-T2/Ispit-Juni-T2.iml" filepath="$PROJECT_DIR$/Ispit-Juni-T2/Ispit-Juni-T2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" filepath="$PROJECT_DIR$/QuarterlySales/QuarterlySales.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueDSA/QueueDSA.iml" filepath="$PROJECT_DIR$/QueueDSA/QueueDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueWithTime/QueueWithTime.iml" filepath="$PROJECT_DIR$/QueueWithTime/QueueWithTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" filepath="$PROJECT_DIR$/RetainAndDelete/RetainAndDelete.iml" />
